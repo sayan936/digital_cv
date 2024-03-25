@@ -66,7 +66,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Qualifications")
+st.subheader("Experience & Qualifications")
 st.write(
     """
     - 🎓 Master of Science in Data Science from the University of Essex

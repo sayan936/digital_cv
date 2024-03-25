@@ -74,7 +74,6 @@ st.write(
     - ✔️ Strong hands-on experience and knowledge in Python, Excel and SQL
     - 💡 Proficient in data analysis, data visualization, and statistical modeling
     - 🛠️ Experienced in using data science tools and libraries (e.g., Pandas, NumPy, Matplotlib, Scikit-Learn)
-    - 📊 Capable of translating business problems into data-driven solutions
     - 🔄 Skilled in machine learning algorithms and predictive modeling
     - ✨ Demonstrated ability to communicate complex data insights in a clear and effective manner
     - 🤖 Knowledgeable in artificial intelligence and machine learning applications

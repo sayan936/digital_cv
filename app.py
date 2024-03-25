@@ -86,14 +86,14 @@ st.write(
 
 # --- SKILLS ---
 st.write('\n')
-st.subheader("Core Competencies")
+st.subheader("Skills")
 st.write(
     """
     - 💻 Programming: Proficient in Python, R, Java, HTML, CSS.
     - 📈 Data Science: Skilled in ML, DL, NLP, with hands-on TensorFlow, SciKit Learn.
-    - 🌍 Web Development: Experienced with Flask, Django.
     - 📊 Visualization & Databases: Proficient in Tableau, PowerBi, MySQL, Oracle SQL.
     - 🌐 Big Data & Cloud: Knowledgeable in Hadoop, Azure Data Factory, Azure Databricks.
+    - 🌍 Web Development: Experienced with Flask, Django.
     - 🛠️ Tools & Technologies: Familiar with VS Code, Jupyter, PyCharm, RStudio.
     """
 )

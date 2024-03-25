@@ -5,8 +5,8 @@
 
 
 a {
-    text-decoration: underline; /* Make links appear as traditional links */
-    color: #64ffda; /* Bright color for links for contrast against dark background */
+    text-decoration: none;
+    color: white !important;
     font-weight: 500;
 }
 

@@ -20,6 +20,7 @@ DESCRIPTION = """
 Data Science Associate, assisting enterprises by supporting data-driven decision-making.
 """
 EMAIL = "sayanchakraborty289@gmail.com"
+PHONE_NUMBER = "+91 8334869162"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/sayanchakraborty97/",
     "GitHub": "https://github.com/sayan936",
@@ -54,6 +55,8 @@ with col2:
         mime="application/octet-stream",
     )
     st.write("📫", EMAIL)
+    st.write("📞" ,PHONE_NUMBER)
+    
     
 # --- SOCIAL LINKS ---
 st.write('\n')
@@ -91,7 +94,7 @@ st.write(
     - 🌍 Web Development: Experienced with Flask, Django.
     - 📊 Visualization & Databases: Proficient in Tableau, PowerBi, MySQL, Oracle SQL.
     - 🌐 Big Data & Cloud: Knowledgeable in Hadoop, Azure Data Factory, Azure Databricks.
-    - 🛠️ Tools & Technologies: Familiar with VS Code, Jupyter, PyCharm, RStudio, Azure Databricks.
+    - 🛠️ Tools & Technologies: Familiar with VS Code, Jupyter, PyCharm, RStudio.
     """
 )
 

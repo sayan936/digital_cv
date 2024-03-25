@@ -17,7 +17,7 @@ PAGE_TITLE = "Portfolio | Sayan Chakraborty"
 PAGE_ICON = ":wave:"
 NAME = "Sayan Chakraborty"
 DESCRIPTION = """
-Data Science Associate, assisting enterprises by supporting data-driven decision-making.
+Data science graduate specializing in quantitative analysis and AI, with advanced skills in Python and R for data analysis and visualization, and a commitment to impactful, data-driven projects and continuous skill improvement.
 """
 EMAIL = "sayanchakraborty289@gmail.com"
 PHONE_NUMBER = "+91 8334869162"
